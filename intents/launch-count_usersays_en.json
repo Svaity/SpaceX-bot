@@ -1,0 +1,154 @@
+[
+  {
+    "id": "e3fe2380-c9ab-43cd-91e9-3eaa73389f71",
+    "data": [
+      {
+        "text": "How many times has the ",
+        "userDefined": false
+      },
+      {
+        "text": "Falcon 9",
+        "alias": "spacex-rocket",
+        "meta": "@spacex-rocket",
+        "userDefined": false
+      },
+      {
+        "text": " launched ",
+        "userDefined": false
+      },
+      {
+        "text": "this year",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522613721
+  },
+  {
+    "id": "c63e1804-6b48-4718-b388-0f17eddd85b4",
+    "data": [
+      {
+        "text": "How many ",
+        "userDefined": false
+      },
+      {
+        "text": "Falcon 9",
+        "alias": "spacex-rocket",
+        "meta": "@spacex-rocket",
+        "userDefined": false
+      },
+      {
+        "text": " launches were there ",
+        "userDefined": false
+      },
+      {
+        "text": "last year",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522613721
+  },
+  {
+    "id": "4135a318-140e-41ea-8655-8802681ba723",
+    "data": [
+      {
+        "text": "How many times has the ",
+        "userDefined": false
+      },
+      {
+        "text": "Falcon 9",
+        "alias": "spacex-rocket",
+        "meta": "@spacex-rocket",
+        "userDefined": false
+      },
+      {
+        "text": " launched ",
+        "userDefined": false
+      },
+      {
+        "text": "in 2015",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522677823
+  },
+  {
+    "id": "27de0cab-f87f-4380-a10c-58b26ca46dcf",
+    "data": [
+      {
+        "text": "How many launches has SpaceX completed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5a1c8985-a2ff-4076-8c0d-d03993595bde",
+    "data": [
+      {
+        "text": "How many ",
+        "userDefined": false
+      },
+      {
+        "text": "Falcon 9",
+        "alias": "spacex-rocket",
+        "meta": "@spacex-rocket",
+        "userDefined": false
+      },
+      {
+        "text": " missions are there?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522613721
+  },
+  {
+    "id": "b2e4cead-d7f3-482f-99e3-4a761cf8d123",
+    "data": [
+      {
+        "text": "How many times did the ",
+        "userDefined": false
+      },
+      {
+        "text": "Falcon 9",
+        "alias": "spacex-rocket",
+        "meta": "@spacex-rocket",
+        "userDefined": false
+      },
+      {
+        "text": " launch?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522613721
+  }
+]

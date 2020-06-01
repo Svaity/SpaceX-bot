@@ -1,0 +1,46 @@
+{
+  "id": "5aff3212-a604-444b-a1b8-817a429d0f61",
+  "name": "launch-count",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "launch-count",
+      "affectedContexts": [
+        {
+          "name": "launch-count-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "2346f1a0-ff8f-441e-a223-e104c560bd24",
+          "required": false,
+          "dataType": "@sys.date-period",
+          "name": "date-period",
+          "value": "$date-period",
+          "isList": false
+        },
+        {
+          "id": "f9513341-a54e-4350-ae80-714e31b95961",
+          "required": false,
+          "dataType": "@spacex-rocket",
+          "name": "spacex-rocket",
+          "value": "$spacex-rocket",
+          "isList": false
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522677823,
+  "fallbackIntent": false,
+  "events": []
+}

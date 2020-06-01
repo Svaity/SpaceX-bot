@@ -1,0 +1,37 @@
+{
+  "id": "d14690ec-0bbc-465d-8fca-d597285993e2",
+  "timestamp": "2018-03-31T19:02:52.869Z",
+  "lang": "en",
+  "result": {
+    "source": "agent",
+    "resolvedQuery": "What's its valuation?",
+    "action": "company-valuation",
+    "actionIncomplete": false,
+    "parameters": {},
+    "contexts": [],
+    "metadata": {
+      "intentId": "c931f1c5-9865-402c-8d03-c6b9e3a60a9f",
+      "webhookUsed": "true",
+      "webhookForSlotFillingUsed": "false",
+      "webhookResponseTime": 555,
+      "intentName": "company-valuation"
+    },
+    "fulfillment": {
+      "speech": "The company is valuated at 15000000000 dollars.",
+      "displayText": "The company is valuated at 15000000000 dollars.",
+      "messages": [
+        {
+          "type": 0,
+          "speech": "The company is valuated at 15000000000 dollars."
+        }
+      ]
+    },
+    "score": 0.4399999976158142
+  },
+  "status": {
+    "code": 200,
+    "errorType": "success",
+    "webhookTimedOut": false
+  },
+  "sessionId": "f2093d30-1165-4cb3-9b64-b0c72b8925e0"
+}

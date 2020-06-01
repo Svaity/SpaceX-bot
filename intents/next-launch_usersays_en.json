@@ -1,0 +1,116 @@
+[
+  {
+    "id": "59b52b0b-efcf-47bb-beac-533165a655e4",
+    "data": [
+      {
+        "text": "next launch",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ac7aa480-24b8-4f4d-9fe6-e6df710a1177",
+    "data": [
+      {
+        "text": "When is the next launch?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1522311721
+  },
+  {
+    "id": "33b46e71-21ee-47b3-9146-0144167bafc6",
+    "data": [
+      {
+        "text": "whats the next launch",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "e327b404-f1b8-4e62-ab55-4d5598f53629",
+    "data": [
+      {
+        "text": "Next launch?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7fef5093-0625-4539-8ea8-000546f7cb1d",
+    "data": [
+      {
+        "text": "Next ",
+        "userDefined": false
+      },
+      {
+        "text": "Falcon 9",
+        "alias": "spacex-rocket",
+        "meta": "@spacex-rocket",
+        "userDefined": false
+      },
+      {
+        "text": " launch?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522613749
+  },
+  {
+    "id": "e7a196ab-6a24-4d50-9282-d4bbf148fe07",
+    "data": [
+      {
+        "text": "When does the ",
+        "userDefined": false
+      },
+      {
+        "text": "Falcon 9",
+        "alias": "spacex-rocket",
+        "meta": "@spacex-rocket",
+        "userDefined": false
+      },
+      {
+        "text": " take off again?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522613749
+  },
+  {
+    "id": "ffad4b24-08c5-4af6-b4c4-4e417af5ca52",
+    "data": [
+      {
+        "text": "When is the next ",
+        "userDefined": false
+      },
+      {
+        "text": "Falcon 9",
+        "alias": "spacex-rocket",
+        "meta": "@spacex-rocket",
+        "userDefined": false
+      },
+      {
+        "text": " launch?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522613749
+  }
+]

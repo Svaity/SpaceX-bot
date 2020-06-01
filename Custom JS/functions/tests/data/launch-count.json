@@ -1,0 +1,46 @@
+{
+  "id": "f7350146-b19c-4034-b9a9-00d973d29626",
+  "timestamp": "2018-03-31T12:32:55.203Z",
+  "lang": "en",
+  "result": {
+    "source": "agent",
+    "resolvedQuery": "how many times has the falcon 9 launched?",
+    "action": "launch-count",
+    "actionIncomplete": false,
+    "parameters": {
+      "spacex-vehicule": "falcon9",
+      "date-period": ""
+    },
+    "contexts": [
+      {
+        "name": "launch-count-followup",
+        "parameters": {
+          "spacex-vehicule.original": "falcon 9",
+          "spacex-vehicule": "falcon9",
+          "date-period.original": "",
+          "date-period": ""
+        },
+        "lifespan": 2
+      }
+    ],
+    "metadata": {
+      "intentId": "5aff3212-a604-444b-a1b8-817a429d0f61",
+      "webhookUsed": "true",
+      "webhookForSlotFillingUsed": "false",
+      "webhookResponseTime": 573,
+      "intentName": "launch-count"
+    },
+    "fulfillment": {
+      "speech": "",
+      "messages": []
+    },
+    "score": 0.9200000166893005
+  },
+  "status": {
+    "code": 206,
+    "errorType": "partial_content",
+    "errorDetails": "Webhook call failed. Error: 500 Internal Server Error",
+    "webhookTimedOut": false
+  },
+  "sessionId": "82a5d9a2-653b-48d6-bf72-3d76fa412ad4"
+}

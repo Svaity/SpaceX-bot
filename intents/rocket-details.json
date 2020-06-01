@@ -1,0 +1,52 @@
+{
+  "id": "dd88dec9-5687-4ff4-9013-bfe3fe7115b1",
+  "name": "rocket-details",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "rocket-details",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6adfa20d-3f00-466b-a5c8-70a40fb31db6",
+          "required": true,
+          "dataType": "@spacex-rocket",
+          "name": "spacex-rocket",
+          "value": "$spacex-rocket",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "For what rocket do you want more information?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "57490b1c-391a-4438-8bf6-3b44770796f5",
+          "required": false,
+          "dataType": "@rocket-property",
+          "name": "rocket-property",
+          "value": "$rocket-property",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522677812,
+  "fallbackIntent": false,
+  "events": []
+}

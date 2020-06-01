@@ -1,0 +1,30 @@
+[
+  {
+    "value": "weight",
+    "synonyms": [
+      "weight",
+      "mass",
+      "weigh",
+      "heavy"
+    ]
+  },
+  {
+    "value": "height",
+    "synonyms": [
+      "height",
+      "tallness",
+      "length",
+      "size",
+      "high",
+      "tall"
+    ]
+  },
+  {
+    "value": "diameter",
+    "synonyms": [
+      "diameter",
+      "width",
+      "wide"
+    ]
+  }
+]

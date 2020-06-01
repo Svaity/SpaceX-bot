@@ -1,0 +1,25 @@
+[
+  {
+    "value": "falconheavy",
+    "synonyms": [
+      "Falcon Heavy"
+    ]
+  },
+  {
+    "value": "falcon9",
+    "synonyms": [
+      "falcon9",
+      "Falcon 9",
+      "F9",
+      "Falcon Nine"
+    ]
+  },
+  {
+    "value": "falcon1",
+    "synonyms": [
+      "Falcon 1",
+      "F1",
+      "Falcon One"
+    ]
+  }
+]

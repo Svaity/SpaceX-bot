@@ -1,0 +1,48 @@
+{
+  "id": "7ad6ee0f-5ea3-46a7-879f-40766c7b6235",
+  "timestamp": "2018-03-31T12:54:58.383Z",
+  "lang": "en",
+  "result": {
+    "source": "agent",
+    "resolvedQuery": "when is the next launch",
+    "action": "next-launch",
+    "actionIncomplete": false,
+    "parameters": {
+      "spacex-vehicule": ""
+    },
+    "contexts": [
+      {
+        "name": "next-launch-followup",
+        "parameters": {
+          "spacex-vehicule.original": "",
+          "spacex-vehicule": ""
+        },
+        "lifespan": 2
+      }
+    ],
+    "metadata": {
+      "intentId": "a174d12b-46e6-4e25-8a4a-6150b79d8749",
+      "webhookUsed": "true",
+      "webhookForSlotFillingUsed": "false",
+      "webhookResponseTime": 3225,
+      "intentName": "next-launch"
+    },
+    "fulfillment": {
+      "speech": "The next launch is on...",
+      "messages": [
+        {
+          "type": 0,
+          "speech": "The next launch is on..."
+        }
+      ]
+    },
+    "score": 1
+  },
+  "status": {
+    "code": 206,
+    "errorType": "partial_content",
+    "errorDetails": "Webhook call failed. Error: 500 Internal Server Error",
+    "webhookTimedOut": false
+  },
+  "sessionId": "82a5d9a2-653b-48d6-bf72-3d76fa412ad4"
+}

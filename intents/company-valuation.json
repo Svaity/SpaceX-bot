@@ -1,0 +1,29 @@
+{
+  "id": "c931f1c5-9865-402c-8d03-c6b9e3a60a9f",
+  "name": "company-valuation",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "company-valuation",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522520716,
+  "fallbackIntent": false,
+  "events": []
+}

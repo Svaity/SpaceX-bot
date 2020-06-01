@@ -1,0 +1,284 @@
+[
+  {
+    "id": "72bad6a3-4e38-43b5-bfae-9b416ec626b7",
+    "data": [
+      {
+        "text": "How much does the ",
+        "userDefined": false
+      },
+      {
+        "text": "Falcon 9",
+        "alias": "spacex-rocket",
+        "meta": "@spacex-rocket",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "weigh",
+        "alias": "rocket-property",
+        "meta": "@rocket-property",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522613131
+  },
+  {
+    "id": "e2b1a16a-59f2-405e-92ad-5d45a10b5eb6",
+    "data": [
+      {
+        "text": "What\u0027s the ",
+        "userDefined": false
+      },
+      {
+        "text": "diameter",
+        "alias": "rocket-property",
+        "meta": "@rocket-property",
+        "userDefined": false
+      },
+      {
+        "text": " of the ",
+        "userDefined": false
+      },
+      {
+        "text": "Falcon 9",
+        "alias": "spacex-rocket",
+        "meta": "@spacex-rocket",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522613503
+  },
+  {
+    "id": "cea376f4-41ee-4c04-9f30-062117c0b673",
+    "data": [
+      {
+        "text": "How ",
+        "userDefined": false
+      },
+      {
+        "text": "high",
+        "alias": "rocket-property",
+        "meta": "@rocket-property",
+        "userDefined": false
+      },
+      {
+        "text": " is the ",
+        "userDefined": false
+      },
+      {
+        "text": "falcon 9",
+        "alias": "spacex-rocket",
+        "meta": "@spacex-rocket",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522613680
+  },
+  {
+    "id": "6191d353-6824-47e1-91c0-f693bcc244c4",
+    "data": [
+      {
+        "text": "Whats the ",
+        "userDefined": false
+      },
+      {
+        "text": "mass",
+        "alias": "rocket-property",
+        "meta": "@rocket-property",
+        "userDefined": true
+      },
+      {
+        "text": " of a ",
+        "userDefined": false
+      },
+      {
+        "text": "falcon 9?",
+        "alias": "spacex-rocket",
+        "meta": "@spacex-rocket",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522613131
+  },
+  {
+    "id": "f758c93f-7b86-4a60-8b6b-b9c24fafd90e",
+    "data": [
+      {
+        "text": "What\u0027s the ",
+        "userDefined": false
+      },
+      {
+        "text": "height",
+        "alias": "rocket-property",
+        "meta": "@rocket-property",
+        "userDefined": false
+      },
+      {
+        "text": " of the ",
+        "userDefined": false
+      },
+      {
+        "text": "falcon heavy",
+        "alias": "spacex-rocket",
+        "meta": "@spacex-rocket",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522613131
+  },
+  {
+    "id": "961517ca-3dc9-41f6-aaa5-51caab0b05ec",
+    "data": [
+      {
+        "text": "How ",
+        "userDefined": false
+      },
+      {
+        "text": "heavy",
+        "alias": "rocket-property",
+        "meta": "@rocket-property",
+        "userDefined": true
+      },
+      {
+        "text": " is the ",
+        "userDefined": false
+      },
+      {
+        "text": "Falcon 1",
+        "alias": "spacex-rocket",
+        "meta": "@spacex-rocket",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522613131
+  },
+  {
+    "id": "ea7d344f-db69-4740-bbe9-4b1ca5b97540",
+    "data": [
+      {
+        "text": "How ",
+        "userDefined": false
+      },
+      {
+        "text": "high",
+        "alias": "rocket-property",
+        "meta": "@rocket-property",
+        "userDefined": false
+      },
+      {
+        "text": " is a ",
+        "userDefined": false
+      },
+      {
+        "text": "falcon 9",
+        "alias": "spacex-rocket",
+        "meta": "@spacex-rocket",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522613131
+  },
+  {
+    "id": "83eafeb2-4cdc-49e0-866d-8d771182d0f8",
+    "data": [
+      {
+        "text": "What is the ",
+        "userDefined": false
+      },
+      {
+        "text": "Falcon 9",
+        "alias": "spacex-rocket",
+        "meta": "@spacex-rocket",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522613131
+  },
+  {
+    "id": "cc78e0a9-de5e-4e73-8437-382e47b392e8",
+    "data": [
+      {
+        "text": "Give me some details about the ",
+        "userDefined": false
+      },
+      {
+        "text": "Falcon Heavy",
+        "alias": "spacex-rocket",
+        "meta": "@spacex-rocket",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522613131
+  },
+  {
+    "id": "2199e990-f4a9-4eee-9957-5a25d2b68e98",
+    "data": [
+      {
+        "text": "Tell me more about the ",
+        "userDefined": false
+      },
+      {
+        "text": "Falcon 9",
+        "alias": "spacex-rocket",
+        "meta": "@spacex-rocket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522613131
+  }
+]

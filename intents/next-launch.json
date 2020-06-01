@@ -1,0 +1,45 @@
+{
+  "id": "a174d12b-46e6-4e25-8a4a-6150b79d8749",
+  "name": "next-launch",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "next-launch",
+      "affectedContexts": [
+        {
+          "name": "next-launch-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "7287e877-3aa4-4359-a611-572a897f4cda",
+          "dataType": "@spacex-rocket",
+          "name": "spacex-rocket",
+          "value": "$spacex-rocket",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The next launch is on..."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522613749,
+  "fallbackIntent": false,
+  "events": []
+}

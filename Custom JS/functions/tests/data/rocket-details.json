@@ -1,0 +1,39 @@
+{
+  "id": "df97fb73-bc80-4b02-a352-a504f46c967f",
+  "timestamp": "2018-03-31T18:44:39.02Z",
+  "lang": "en",
+  "result": {
+    "source": "agent",
+    "resolvedQuery": "Tell me more about the falcon 9",
+    "action": "rocket-details",
+    "actionIncomplete": false,
+    "parameters": {
+      "spacex-rocket": "falcon9"
+    },
+    "contexts": [],
+    "metadata": {
+      "intentId": "dd88dec9-5687-4ff4-9013-bfe3fe7115b1",
+      "webhookUsed": "true",
+      "webhookForSlotFillingUsed": "false",
+      "webhookResponseTime": 2493,
+      "intentName": "rocket-details"
+    },
+    "fulfillment": {
+      "speech": "This message is from Dialogflow's Cloud Functions for Firebase editor!",
+      "displayText": "This message is from Dialogflow's Cloud Functions for Firebase editor!",
+      "messages": [
+        {
+          "type": 0,
+          "speech": "This message is from Dialogflow's Cloud Functions for Firebase editor!"
+        }
+      ]
+    },
+    "score": 1
+  },
+  "status": {
+    "code": 200,
+    "errorType": "success",
+    "webhookTimedOut": false
+  },
+  "sessionId": "f2093d30-1165-4cb3-9b64-b0c72b8925e0"
+}
